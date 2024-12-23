@@ -1,4 +1,4 @@
-id,source,body,advert_id,created
+id,source,body,advert_id,created,advert_date,manufacturer,model,registration_number,engine_hours,maintenance_plan
 18,aso,"1996 Gulfstream G-IVSP 1289 N920KM for Sale: Specs, Price | ASO.com
 Login
 September 30, 02:56 AM US EDT
@@ -628,7 +628,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",136693,00:02.4
+States Trademarks",136693,00:02.4,,,,,,
 139,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=149792
 . It is a snapshot of the page as it appeared on Feb 26, 2017 07:26:01 GMT.
@@ -1206,7 +1206,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",149792,00:02.4
+States Trademarks",149792,00:02.4,,,,,,
 289,aso,"This is Google's cache of
 http://www.aso.com/listings/spec/ViewAd.aspx?id=154368
 . It is a snapshot of the page as it appeared on Dec 12, 2015 15:55:16 GMT.
@@ -1848,7 +1848,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",154368,00:02.4
+States Trademarks",154368,00:02.4,,,,,,
 15839,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=176905
 .
@@ -2451,7 +2451,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",176905,00:02.4
+States Trademarks",176905,00:02.4,,,,,,
 15885,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=176955
 .
@@ -3087,7 +3087,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",176955,00:02.4
+States Trademarks",176955,00:02.4,,,,,,
 15957,aso,"1990 Gulfstream G-IV 1137 N605CM for Sale: Specs, Price | ASO.com
 Login
 October 31, 07:26 AM US EDT
@@ -3699,7 +3699,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",177057,00:02.4
+States Trademarks",177057,00:02.4,,,,,,
 16083,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=177196
 .
@@ -4389,7 +4389,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",177196,00:02.4
+States Trademarks",177196,00:02.4,,,,,,
 16085,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=177198
 .
@@ -5075,7 +5075,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",177198,00:02.4
+States Trademarks",177198,00:02.4,,,,,,
 16230,aso,"1989 Gulfstream G-IV  for Sale: Specs, Price | ASO.com
 Login
 June 03, 03:34 AM US EDT
@@ -5645,7 +5645,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",177352,00:02.4
+States Trademarks",177352,00:02.4,,,,,,
 16277,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=177409
 .
@@ -6279,7 +6279,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",177409,00:02.4
+States Trademarks",177409,00:02.4,,,,,,
 16567,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=177724
 .
@@ -6933,7 +6933,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",177724,00:02.4
+States Trademarks",177724,00:02.4,,,,,,
 16627,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=177788
 .
@@ -7559,7 +7559,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",177788,00:02.4
+States Trademarks",177788,00:02.4,,,,,,
 17127,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=178323
 .
@@ -8169,7 +8169,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",178323,00:02.4
+States Trademarks",178323,00:02.4,,,,,,
 17242,aso,"1999 Gulfstream G-IVSP
 Reg#: N269WR
 S/N: 1378
@@ -8177,7 +8177,7 @@ $: Inquire
 TTAF: 8191
 Loc:
 FL
-Westgate Aviation",178453,00:02.4
+Westgate Aviation",178453,00:02.4,,,,,,
 17253,aso,"This is Google's cache of
 https://www.aso.com/listings/spec/ViewAd.aspx?id=178469
 .
@@ -8837,7 +8837,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",178469,00:02.4
+States Trademarks",178469,00:02.4,,,,,,
 95241,aso-dropbox,"2008 Gulfstream G450 4136 T7-AZH for Sale: Specs, Price | ASO.com
 Login
 May 18, 04:33 AM US EDT
@@ -9485,7 +9485,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",185135,01:37.8
+States Trademarks",185135,01:37.8,,,,,,
 95308,aso-dropbox,"1997 Gulfstream G-IVSP 1321 N905LP for Sale: Specs, Price | ASO.com
 Login
 October 22, 01:59 AM US EDT
@@ -10140,7 +10140,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",185205,05:57.8
+States Trademarks",185205,05:57.8,,,,,,
 95380,aso-dropbox,"1999 Gulfstream G-IVSP 1369 N302SB for Sale: Specs, Price | ASO.com
 Login
 October 29, 06:23 AM US EDT
@@ -10784,7 +10784,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",185281,09:46.5
+States Trademarks",185281,09:46.5,,,,,,
 95428,aso-dropbox,"1989 Gulfstream G-IV 1059  XA-ARR for Sale: Specs, Price | ASO.com
 Login
 October 31, 07:14 AM US EDT
@@ -11432,7 +11432,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",185334,11:52.7
+States Trademarks",185334,11:52.7,,,,,,
 95533,aso-dropbox,"1987 Gulfstream G-IV 1017 N818BA for Sale: Specs, Price | ASO.com
 Login
 November 07, 03:03 AM US EDT
@@ -12055,7 +12055,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",185438,16:35.2
+States Trademarks",185438,16:35.2,,,,,,
 95714,aso-dropbox,"2010 Gulfstream G450 4165 N945MM for Sale: Specs, Price | ASO.com
 Login
 June 19, 02:58 AM US EDT
@@ -12705,7 +12705,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",185640,26:13.2
+States Trademarks",185640,26:13.2,,,,,,
 95794,aso-dropbox,"2001 Gulfstream G-IVSP 1444 N445SC for Sale: Specs, Price | ASO.com
 Login
 December 02, 06:02 AM US EDT
@@ -13424,7 +13424,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",185725,31:25.2
+States Trademarks",185725,31:25.2,,,,,400,
 96226,aso-dropbox,"1997 Gulfstream G-IVSP 1312  N910AF for Sale: Specs, Price | ASO.com
 Login
 February 26, 11:34 PM US EDT
@@ -14111,7 +14111,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",186197,00:43.6
+States Trademarks",186197,00:43.6,,,,,,
 75447,aso-dropbox,"1996 Gulfstream G-IVSP 1301 N974JD  for Sale: Specs, Price | ASO.com
 Login
 April 16, 02:22 AM US EDT
@@ -14776,7 +14776,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",186291,00:55.7
+States Trademarks",186291,00:55.7,,,,,,
 114706,aso-dropbox,"2001 Gulfstream G-IVSP 1456 N207AA for Sale: Specs, Price | ASO.com
 Login
 March 04, 01:20 AM US EDT
@@ -15409,7 +15409,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",186502,01:09.5
+States Trademarks",186502,01:09.5,,,,,,
 115166,aso-dropbox,"View Ad
 Login
 May 23, 04:42 AM US EDT
@@ -16011,7 +16011,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",186616,01:36.6
+States Trademarks",186616,01:36.6,,,,,,
 117033,aso-dropbox,"2001 Gulfstream G-IVSP 1464 N119FM for Sale: Specs, Price | ASO.com
 Login
 April 09, 03:59 AM US EDT
@@ -16637,7 +16637,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",186828,01:54.5
+States Trademarks",186828,01:54.5,,,,,,
 121276,aso-dropbox,"1988 Gulfstream G-IV 1067 N200LC for Sale: Specs, Price | ASO.com
 Login
 June 24, 01:45 AM US EDT
@@ -17237,7 +17237,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",187365,01:03.2
+States Trademarks",187365,01:03.2,,,,,,
 123306,aso-dropbox,"1991 Gulfstream G-IV 1158 N917W for Sale: Specs, Price | ASO.com
 Login
 July 29, 02:29 AM US EDT
@@ -17856,7 +17856,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",187618,01:07.0
+States Trademarks",187618,01:07.0,,,,,,
 125529,aso-dropbox,"2001 Gulfstream G-IVSP 1445 N474X for Sale: Specs, Price | ASO.com
 Login
 September 07, 01:12 AM US EDT
@@ -18532,7 +18532,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",187932,00:15.5
+States Trademarks",187932,00:15.5,,,,,,
 126890,aso-dropbox,"View Ad
 Login
 October 07, 03:02 AM US EDT
@@ -19155,7 +19155,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",188109,00:55.8
+States Trademarks",188109,00:55.8,,,,,,
 127070,aso-dropbox,"View Ad
 Login
 October 26, 03:00 AM US EDT
@@ -19815,7 +19815,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",188135,01:16.5
+States Trademarks",188135,01:16.5,,,,,,
 128138,aso-dropbox,"View Ad
 Login
 November 18, 04:43 AM US EDT
@@ -20461,7 +20461,7 @@ Press Center
 Site Map
 Aircraft Shopper
 Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered United
-States Trademarks",188288,04:32.6
+States Trademarks",188288,04:32.6,,,,,,
 112292,avbuyer-dropbox,"2012 Gulfstream G450 For Sale, Turkey | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -20951,7 +20951,7 @@ Privacy & Cookies
 Powered by
 Fiareads
 Gulfstream G450
-×",359904,35:39.2
+×",359904,35:39.2,,,,,,
 112320,avbuyer-dropbox,"2012 Gulfstream G450 For Sale, United States | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -21457,7 +21457,7 @@ Privacy & Cookies
 Powered by
 Fiareads
 Gulfstream G450
-×",359941,35:46.0
+×",359941,35:46.0,,,,,,
 112678,avbuyer-dropbox,"2008 Gulfstream G450 for sale in Canada. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -21816,7 +21816,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",360414,37:05.3
+×",360414,37:05.3,,,,,,
 112863,avbuyer-dropbox,"2008 Gulfstream G450 for lease in United Kingdom. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -22187,7 +22187,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",360636,37:44.1
+×",360636,37:44.1,,,,,,
 112963,avbuyer-dropbox,"2010 Gulfstream G450 for sale in MD, US. 4165 | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -22580,7 +22580,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",360769,38:03.9
+×",360769,38:03.9,,,,,,
 113061,avbuyer-dropbox,"2006 Gulfstream G450 for sale in MD, US. 4059 | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -22967,7 +22967,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",360913,38:22.0
+×",360913,38:22.0,,,,,3,
 113348,avbuyer-dropbox,"1994 Gulfstream IVSP For Sale in England, UK. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -23236,7 +23236,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream IVSP
-×",361264,39:18.2
+×",361264,39:18.2,,,,,,
 114812,avbuyer-dropbox,"2011 Gulfstream G450 For Sale in MD, US. 4207 | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -23569,7 +23569,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",361615,01:24.7
+×",361615,01:24.7,,,,,,
 120791,avbuyer-dropbox,"2004 Gulfstream G400 For Sale in GA, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -23922,7 +23922,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G400
-×",362360,03:45.1
+×",362360,03:45.1,,,,,,
 122827,avbuyer-dropbox,"1995 Gulfstream IVSP For Sale in FL, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -24225,7 +24225,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream IVSP
-×",362574,01:01.6
+×",362574,01:01.6,,,,,000,
 126298,avbuyer-dropbox,"2008 Gulfstream G450 For Sale in FL, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -24598,7 +24598,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",362991,00:55.9
+×",362991,00:55.9,,,,,,
 128268,avbuyer-dropbox,"2013 Gulfstream G450 For Sale in Monaco. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -24862,7 +24862,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",363159,05:25.8
+×",363159,05:25.8,,,,,,
 136610,avbuyer-dropbox,"2009 Gulfstream G450 For Sale in MS, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -25222,7 +25222,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",364210,00:50.7
+×",364210,00:50.7,,,,,,
 140031,avbuyer-dropbox,"Astra/Gulfstream 1125 For Sale in DE, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -25511,7 +25511,7 @@ Privacy & Cookies
 Powered by
 ×
 Astra/Gulfstream 1125
-×",364593,01:02.1
+×",364593,01:02.1,,,,,,
 143694,avbuyer-dropbox,"2013 Gulfstream G450 For Sale in CH. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -25855,7 +25855,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",364966,01:31.9
+×",364966,01:31.9,,,,,,
 149062,avbuyer-dropbox,"1986 Gulfstream III For Sale in GA, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -26187,7 +26187,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream III
-×",365580,01:43.6
+×",365580,01:43.6,,,,,,
 149546,avbuyer-dropbox,"2009 Gulfstream G450 For Sale in UAE. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -26595,7 +26595,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",365622,01:29.8
+×",365622,01:29.8,,,,,,
 151660,avbuyer-dropbox,"1988 Gulfstream IV For Sale in VA, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -26931,7 +26931,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream IV
-×",365855,02:02.2
+×",365855,02:02.2,,,,,,
 163899,avbuyer-dropbox,"2013 Gulfstream G450 For Sale | England, UK. 4263 hrs. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -27333,7 +27333,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",365871,01:36.9
+×",365871,01:36.9,,,,,,
 151927,avbuyer-dropbox,"1996 Gulfstream IVSP For Sale in Nigeria. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -27679,7 +27679,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream IVSP
-×",365892,01:37.0
+×",365892,01:37.0,,,,,,
 152020,avbuyer-dropbox,"2012 Gulfstream G450 For Sale | MD, US. 4535 hrs. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -28134,7 +28134,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",365905,01:42.4
+×",365905,01:42.4,,,,,,
 157751,avbuyer-dropbox,"2017 Gulfstream G450 For Sale in MD, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -28588,7 +28588,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",366591,01:35.4
+×",366591,01:35.4,,,,,,
 158548,avbuyer-dropbox,"1998 Gulfstream IVSP For Sale in AZ | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -28929,7 +28929,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream IVSP
-×",366707,01:19.7
+×",366707,01:19.7,,,,,,
 159235,avbuyer-dropbox,"1987 Gulfstream IV For Sale in FL, US. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -29323,7 +29323,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream IV
-×",366785,01:43.4
+×",366785,01:43.4,,,,,,
 161166,avbuyer-dropbox,"1988 Gulfstream IV For Sale | MD, US. 12299 hrs. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -29770,7 +29770,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream IV
-×",367037,01:27.0
+×",367037,01:27.0,,,,,,
 165859,avbuyer-dropbox,"2008 Gulfstream G450 For Sale | NE, US. 2910 hrs. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -30205,7 +30205,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",367680,01:28.0
+×",367680,01:28.0,,,,,,
 166581,avbuyer-dropbox,"2023 Gulfstream G280 For Sale | FL, US. 50 hrs. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -30599,7 +30599,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G280
-×",367757,01:08.8
+×",367757,01:08.8,,,,,,
 168620,avbuyer-dropbox,"2013 Gulfstream G450 For Sale | China. 2410 hrs. | AvBuyer
 By using our site, you consent to our use of cookies. For more information view our updated
 Privacy
@@ -31034,7 +31034,7 @@ Privacy & Cookies
 Powered by
 ×
 Gulfstream G450
-×",367798,00:46.6
+×",367798,00:46.6,,,,,,
 47066,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/1464165/1997-gulfstream-ivsp?page=%23page%23
 . It is a snapshot of the page as it appeared on Mar 18, 2017 00:44:24 GMT.
@@ -31376,7 +31376,7 @@ Controller
 Extras
 Make Controller.com My Home Site
 Sandhills Publishing Web Site
-Beware Of Internet Scams!",1464165,34:49.6
+Beware Of Internet Scams!",1464165,34:49.6,,GULFSTREAM,IVSP,,,
 47140,controller,"This is Google's cache of
 http://www.controller.com/listings/aircraft/for-sale/1464339/2004-gulfstream-g550?OHID=1464339&ForcedDeskTop=True&page=%23page%23
 . It is a snapshot of the page as it appeared on Dec 18, 2016 23:23:42 GMT.
@@ -31673,7 +31673,7 @@ Controller
 Extras
 Make Controller.com My Home Site
 Sandhills Publishing Web Site
-Beware Of Internet Scams!",1464339,34:49.6
+Beware Of Internet Scams!",1464339,34:49.6,,GULFSTREAM,G550,,12,
 97494,trade-a-plane-dropbox,"1983 GULFSTREAM III Jets for sale San Marcos CA R Consulting & Sales Inc - 2334843
 Login
 Sell Now
@@ -31877,7 +31877,7 @@ Home
 Terms of Service
 Privacy Statement
 Buyer Warning
-Advertising Agreement",2334843,08:14.4
+Advertising Agreement",2334843,08:14.4,,GULFSTREAM,III,,,
 99813,trade-a-plane-dropbox,"1993 GULFSTREAM IVSP Jets for sale CA Global Aero Group - 2366883
 Login
 Sell Now
@@ -32089,7 +32089,7 @@ Home
 Terms of Service
 Privacy Statement
 Buyer Warning
-Advertising Agreement",2366883,13:04.5
+Advertising Agreement",2366883,13:04.5,,GULFSTREAM,IVSP,,,
 99913,trade-a-plane-dropbox,"1987 GULFSTREAM IV Jets for sale Teterboro NJ International Aircraft Marketing & Sales - Brian Bartunek - 2372472
 Login
 Sell Now
@@ -32340,7 +32340,7 @@ Home
 Terms of Service
 Privacy Statement
 Buyer Warning
-Advertising Agreement",2372472,13:58.1
+Advertising Agreement",2372472,13:58.1,,GULFSTREAM,IV,,,
 103842,trade-a-plane-dropbox,"1990 GULFSTREAM IV Jets for sale Calgary Hopkinson Aircraft Sales - 2382346
 Login
 Sell Now
@@ -32613,7 +32613,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2382346,19:10.9
+Tradequip",2382346,19:10.9,,GULFSTREAM,IV,,,
 144766,trade-a-plane-dropbox,"1984 GULFSTREAM III Jets for sale - 2408442
 Login
 Sell Now
@@ -32887,7 +32887,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2408442,00:37.6
+Tradequip",2408442,00:37.6,,GULFSTREAM,III,,1,
 146782,trade-a-plane-dropbox,"1989 GULFSTREAM IV Jets for sale - 2409572
 Login
 Sell Now
@@ -33137,7 +33137,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2409572,01:28.3
+Tradequip",2409572,01:28.3,,GULFSTREAM,IV,,,
 149027,trade-a-plane-dropbox,"1986 GULFSTREAM III Jets for sale - 2410770
 Login
 Sell Now
@@ -33404,7 +33404,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2410770,01:39.1
+Tradequip",2410770,01:39.1,,GULFSTREAM,III,,,
 150339,trade-a-plane-dropbox,"1994 GULFSTREAM IVSP Jets for sale - 2411370
 Login
 Sell Now
@@ -33681,7 +33681,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2411370,00:42.6
+Tradequip",2411370,00:42.6,,GULFSTREAM,IVSP,,,
 150886,trade-a-plane-dropbox,"GULFSTREAM IVSP Jets for sale - 2411601
 Login
 Sell Now
@@ -33954,7 +33954,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2411601,01:06.8
+Tradequip",2411601,01:06.8,,GULFSTREAM,IVSP,,,
 176313,trade-a-plane-dropbox,"1990 GULFSTREAM IV Jets for sale - 2426270
 Login
 Sell Now
@@ -34200,7 +34200,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2426270,00:27.2
+Tradequip",2426270,00:27.2,,GULFSTREAM,IV,,,
 180910,trade-a-plane-dropbox,"1991 GULFSTREAM IV Jets for sale - 2428695
 Login
 Sell Now
@@ -34457,7 +34457,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2428695,00:51.9
+Tradequip",2428695,00:51.9,,GULFSTREAM,IV,,,
 189521,trade-a-plane-dropbox,"1973 CESSNA 150L Single Engine Piston for sale - 2433910
 Login
 Sell Now
@@ -34662,7 +34662,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2433910,01:00.8
+Tradequip",2433910,01:00.8,,CESSNA,150L,,900,
 190445,trade-a-plane-dropbox,"2010 GULFSTREAM G200 Jets for sale - 2434464
 Login
 Sell Now
@@ -34948,7 +34948,7 @@ FAMILY OF SITES
 Aero Trader
 NextTruck
 Rock & Dirt
-Tradequip",2434464,01:24.7
+Tradequip",2434464,01:24.7,,GULFSTREAM,G200,,,
 64995,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/27277127/1999-gulfstream-ivsp
 .
@@ -35499,7 +35499,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",27277127,34:49.6
+Cookies Policy",27277127,34:49.6,,GULFSTREAM,IVSP,,,
 65029,controller,"1994 GULFSTREAM IVSP For Sale In NASHVILLE, Tennessee | Controller.com
 Sell
 Click Here to Sell
@@ -35949,7 +35949,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",27298849,34:49.6
+Cookies Policy",27298849,34:49.6,,GULFSTREAM,IVSP,,,
 65611,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/27670337/1988-gulfstream-iv
 .
@@ -36363,7 +36363,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",27670337,34:49.6
+Cookies Policy",27670337,34:49.6,,GULFSTREAM,IV,,7,
 65745,controller,"12
 1989 GULFSTREAM IV
 Jet Aircraft
@@ -36404,7 +36404,7 @@ View Details
 Escrow
 Insurance
 Operating Costs
-Financing",27765691,34:49.6
+Financing",27765691,34:49.6,,GULFSTREAM,IV,,,
 66523,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/28313127/
 .
@@ -36950,7 +36950,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",28313127,34:49.6
+Cookies Policy",28313127,34:49.6,,GULFSTREAM,IV,,,
 66657,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/28400037/1992-gulfstream-iv
 .
@@ -37533,7 +37533,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",28400037,34:49.6
+Cookies Policy",28400037,34:49.6,,GULFSTREAM,IV,,,
 67031,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/28736733/1992-gulfstream-ivsp
 .
@@ -38047,7 +38047,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",28736733,34:49.6
+Cookies Policy",28736733,34:49.6,,GULFSTREAM,IVSP,,,
 67042,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/28744559/1995-gulfstream-ivsp
 .
@@ -38557,7 +38557,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",28744559,34:49.6
+Cookies Policy",28744559,34:49.6,,GULFSTREAM,IVSP,,,
 67320,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/28995575/1981-gulfstream-iii?dlr=1&if=1
 .
@@ -38983,7 +38983,7 @@ Total Usable Fuel Weight
 #,###
 Unlock and View Report for $50:
 Buy Now
-Return to Previous Page",28995575,34:49.6
+Return to Previous Page",28995575,34:49.6,,GULFSTREAM,III,,,
 67371,controller,"This is Google's cache of
 https://www.controller.com/listings/aircraft/for-sale/29037871/2017-gulfstream-g650er
 .
@@ -39444,7 +39444,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",29037871,34:49.6
+Cookies Policy",29037871,34:49.6,,GULFSTREAM,G650ER,,,
 68150,controller-multi,"17
 1990 GULFSTREAM IV
 Jet Aircraft
@@ -39480,7 +39480,7 @@ rafxqzzubtfazvattuzxqduysxwzydyyu
 Escrow
 Insurance
 Operating Costs
-Financing",29384729,28:09.8
+Financing",29384729,28:09.8,,GULFSTREAM,IV,,,
 69299,controller-multi,"1983 GULFSTREAM III For Sale In San Diego, California | Controller.com
 Sell
 Click Here to Sell
@@ -39920,7 +39920,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",29423821,28:43.2
+Cookies Policy",29423821,28:43.2,,GULFSTREAM,III,,,
 74990,controller-multi,"1997 GULFSTREAM IVSP For Sale In Houston, Texas | Controller.com
 Sell
 Click Here to Sell
@@ -40348,7 +40348,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",29882861,32:28.9
+Cookies Policy",29882861,32:28.9,,GULFSTREAM,IVSP,,100,
 68142,controller-multi,"4
 2001 GULFSTREAM IVSP
 Jet Aircraft
@@ -40387,7 +40387,7 @@ View Details
 Escrow
 Insurance
 Operating Costs
-Financing",30814235,28:09.8
+Financing",30814235,28:09.8,,GULFSTREAM,IVSP,,524,
 70513,controller-multi,"1984 GULFSTREAM III For Sale In Van Nuys, California | Controller.com
 Sell
 Click Here to Sell
@@ -40954,7 +40954,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",31220305,29:21.7
+Cookies Policy",31220305,29:21.7,,GULFSTREAM,III,,,
 69289,controller-multi,"2010 GULFSTREAM G450 For Sale In Chesterfield, Missouri | Controller.com
 Sell
 Click Here to Sell
@@ -41448,7 +41448,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",31423193,28:43.2
+Cookies Policy",31423193,28:43.2,,GULFSTREAM,G450,,,
 69288,controller-multi,"2010 GULFSTREAM G450 For Sale In Oxford, Connecticut | Controller.com
 Sell
 Click Here to Sell
@@ -42012,7 +42012,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",31718465,28:43.2
+Cookies Policy",31718465,28:43.2,,GULFSTREAM,G450,,,
 68147,controller-multi,"1996 GULFSTREAM IVSP For Sale In New Richmond, Wisconsin | Controller.com
 Sell
 Click Here to Sell
@@ -42547,7 +42547,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",32157867,28:09.8
+Cookies Policy",32157867,28:09.8,,GULFSTREAM,IVSP,,600,
 69749,controller-multi,"11
 1994 GULFSTREAM IVSP
 Jet Aircraft
@@ -42584,7 +42584,7 @@ View Details
 Escrow
 Insurance
 Operating Costs
-Financing",32787265,28:57.5
+Financing",32787265,28:57.5,,GULFSTREAM,IVSP,,,
 71042,controller-multi,"2010 GULFSTREAM G450 | Controller.com
 Sell
 Click Here to Sell
@@ -43057,7 +43057,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",33045617,29:41.3
+Cookies Policy",33045617,29:41.3,,GULFSTREAM,G450,,,
 69653,controller-multi,"1999 GULFSTREAM V For Sale In Costa Mesa, California | Controller.com
 Sell
 Click Here to Sell
@@ -43583,7 +43583,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",33413917,28:54.2
+Cookies Policy",33413917,28:54.2,,GULFSTREAM,V,,,
 73844,controller-multi,"1992 GULFSTREAM IVSP For Sale In Leesburg, Virginia | Controller.com
 Sell
 Click Here to Sell
@@ -44067,7 +44067,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",33682971,31:33.1
+Cookies Policy",33682971,31:33.1,,GULFSTREAM,IVSP,,,
 69227,controller-multi,"12
 1998 GULFSTREAM IVSP
 Jet Aircraft
@@ -44104,7 +44104,7 @@ View Details
 Escrow
 Insurance
 Operating Costs
-Financing",35146509,28:41.3
+Financing",35146509,28:41.3,,GULFSTREAM,IVSP,,,
 71100,controller-multi,"1988 GULFSTREAM IV | Controller.com
 Sell
 Click Here to Sell
@@ -44520,7 +44520,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",39747311,29:43.8
+Cookies Policy",39747311,29:43.8,,GULFSTREAM,IV,,,
 70743,controller-multi,"2005 GULFSTREAM G350 For Sale In Annapolis, Maryland | Controller.com
 Sell
 Click Here to Sell
@@ -45008,7 +45008,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",68605197,29:31.0
+Cookies Policy",68605197,29:31.0,,GULFSTREAM,G350,,,
 69852,controller-multi,"2008 GULFSTREAM G200 | Controller.com
 Sell
 Click Here to Sell
@@ -45556,7 +45556,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",72806275,29:01.4
+Cookies Policy",72806275,29:01.4,,GULFSTREAM,G200,,,
 75712,controller-dropbox,"GULFSTREAM IV For Sale In Leesburg, Virginia | Controller.com
 Sell
 Click Here to Sell
@@ -46038,7 +46038,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",122215177,04:37.9
+Cookies Policy",122215177,04:37.9,,GULFSTREAM,IV,,,
 75718,controller-dropbox,"2010 GULFSTREAM G450 For Sale In West Harrison, New York | Controller.com
 Sell
 Click Here to Sell
@@ -46527,7 +46527,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",122431271,04:37.9
+Cookies Policy",122431271,04:37.9,,GULFSTREAM,G450,,,
 77535,controller-dropbox,"1984 AEROSTAR 700P For Sale In Salt Lake City , Utah | Controller.com
 Call Seller
 Email Seller
@@ -47052,7 +47052,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",164290467,24:14.2
+Cookies Policy",164290467,24:14.2,,PIPER,AND,,,
 77577,controller-dropbox,"1987 GULFSTREAM G-IV For Sale In Teterboro, New Jersey | Controller.com
 Call Seller
 Email Seller
@@ -47524,7 +47524,7 @@ Site Map
 DMCA Policy
 Legal Notice
 Privacy Policy
-Cookies Policy",164365963,24:25.3
+Cookies Policy",164365963,24:25.3,,GULFSTREAM,G-IV,,,
 89153,controller-dropbox,"Print
 Email
 HOME
@@ -47660,7 +47660,7 @@ Total Amount
 Finance Charge
 :
 Financing
-chevron_right",199153315,01:15.4
+chevron_right",199153315,01:15.4,,GULFSTREAM,Search,,,
 90114,controller-dropbox,"Print
 Email
 HOME
@@ -47760,7 +47760,7 @@ Total Amount
 Finance Charge
 :
 Financing
-chevron_right",200231767,03:22.5
+chevron_right",200231767,03:22.5,,GULFSTREAM,Search,,,
 90361,controller-dropbox,"Print
 Email
 HOME
@@ -47952,7 +47952,7 @@ Total Amount
 Finance Charge
 :
 Financing
-chevron_right",200501819,03:44.5
+chevron_right",200501819,03:44.5,,GULFSTREAM,Search,,,
 90380,controller-dropbox,"Print
 Email
 HOME
@@ -48115,7 +48115,7 @@ Total Amount
 Finance Charge
 :
 Financing
-chevron_right",200521035,03:48.9
+chevron_right",200521035,03:48.9,,GULFSTREAM,Search,,,
 90516,controller-dropbox,"Print
 Email
 HOME
@@ -48257,7 +48257,7 @@ Total Amount
 Finance Charge
 :
 Financing
-chevron_right",200668769,03:59.7
+chevron_right",200668769,03:59.7,,GULFSTREAM,Search,,,
 90634,controller-dropbox,"Print
 Email
 HOME
@@ -48460,7 +48460,7 @@ Total Amount
 Finance Charge
 :
 Financing
-chevron_right",201423847,04:18.6
+chevron_right",201423847,04:18.6,,GULFSTREAM,Search,,,
 90787,controller-dropbox,"Print
 Email
 HOME
@@ -48691,7 +48691,7 @@ Annual Fixed Costs
 Annual Variable Costs
 Hourly Cost Analysis
 Annual / Monthly Budgets
-*Commercial Financing provided by Currency Capital, LLC and loans made or arranged pursuant to California Finance Lenders Law license number 60DBO-56173. Loans are subject to credit approval and monthly payments illustrated above are based on terms available to highest qualified candidates and subject to additional terms and conditions. Currency Capital, LLC is an independent finance company and is not the manufacturer or supplier of any equipment. Currency Capital, LLC is not a consumer lender and any consumer financing will be referred to a consumer lender.",201506307,04:38.5
+*Commercial Financing provided by Currency Capital, LLC and loans made or arranged pursuant to California Finance Lenders Law license number 60DBO-56173. Loans are subject to credit approval and monthly payments illustrated above are based on terms available to highest qualified candidates and subject to additional terms and conditions. Currency Capital, LLC is an independent finance company and is not the manufacturer or supplier of any equipment. Currency Capital, LLC is not a consumer lender and any consumer financing will be referred to a consumer lender.",201506307,04:38.5,,GULFSTREAM,Search,,3685,
 113718,controller-dropbox,"1999 GULFSTREAM GIVSP For Sale in Jacksonville, Florida | Controller.com
 Login
 /
@@ -49213,7 +49213,7 @@ DMCA Policy
 Terms Of Use
 Privacy Policy
 Cookies Policy
-Site Map",201812403,00:12.9
+Site Map",201812403,00:12.9,,GULFSTREAM,GIVSP,,,
 113790,controller-dropbox,"1996 GULFSTREAM GIVSP For Sale in Wichita, Kansas | Controller.com
 Login
 /
@@ -49839,7 +49839,7 @@ DMCA Policy
 Terms Of Use
 Privacy Policy
 Cookies Policy
-Site Map",201852427,00:17.8
+Site Map",201852427,00:17.8,,GULFSTREAM,GIVSP,,1,
 114607,controller-dropbox,"2001 GULFSTREAM GIVSP For Sale in Annapolis, Maryland | Controller.com
 Login
 /
@@ -50394,7 +50394,7 @@ DMCA Policy
 Terms Of Use
 Privacy Policy
 Cookies Policy
-Site Map",202249677,00:17.6
+Site Map",202249677,00:17.6,,GULFSTREAM,GIVSP,,,
 114830,controller-dropbox,"2000 GULFSTREAM GIVSP For Sale in Palm Beach, Florida | Controller.com
 Login
 /
@@ -50907,7 +50907,7 @@ DMCA Policy
 Terms Of Use
 Privacy Policy
 Cookies Policy
-Site Map",202438301,00:19.8
+Site Map",202438301,00:19.8,,GULFSTREAM,GIVSP,,,
 115222,controller-dropbox,"2011 GULFSTREAM G450 For Sale in Annapolis, Maryland | Controller.com
 Login
 /
@@ -51490,7 +51490,7 @@ DMCA Policy
 Terms Of Use
 Privacy Policy
 Cookies Policy
-Site Map",202646921,00:16.8
+Site Map",202646921,00:16.8,,GULFSTREAM,G450,,,
 115558,controller-dropbox,"1998 GULFSTREAM GIVSP For Sale in Burbank, California | Controller.com
 Login
 /
@@ -52137,4 +52137,4 @@ DMCA Policy
 Terms Of Use
 Privacy Policy
 Cookies Policy
-Site Map",202852019,00:19.0
+Site Map",202852019,00:19.0,,GULFSTREAM,GIVSP,,,
