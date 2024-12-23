@@ -9,4 +9,6 @@ DataScience Test Project
 ### Got Results:
 
 - From `Body`: Model + Manufacture + Year of MFT | Registration Number | TTAF | Price | Engine Hours 
-- From `Model`: Manufacture | Model | 
+- From `Model`: Manufacture | Model | Year of Manufacture 
+- Run `manu_pan` then `model_pan` then `manu_year_pan`.
+
