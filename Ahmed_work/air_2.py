@@ -2,7 +2,7 @@ import pandas as pd
 import re
 
 # Load the data
-df = pd.read_csv(r"C:\Users\Ahmed Shafique\Documents\Projects\Datascience test project\GIVshort.csv")
+df = pd.read_csv(r"C:\Users\Ahmed Shafique\Documents\Projects\Datascience test project\Ahmed_work\Extracted_Aircraft_Data.csv")
 
 # Function to extract data from the body column
 def extract_details(text):
