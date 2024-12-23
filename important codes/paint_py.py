@@ -6,10 +6,10 @@ df = pd.read_csv(path)
 
 def extract_refurb_date(text):
     if isinstance(text, str):
-        match = re.search(r'Refurbished\s(\d{4})', text, re.IGNORECASE)
+        match = re.search(r'(?:Refurbished|New paint -)\s(\d{4})', text, re.IGNORECASE)
         if match:
             return match.group(1)
-    return None
+    return None 
 
 df['refurb_date'] = df['body'].apply(extract_refurb_date)
 

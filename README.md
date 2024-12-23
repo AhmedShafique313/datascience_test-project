@@ -14,3 +14,4 @@ DataScience Test Project
 - Run serial_py.py to get serial 
 - Run Loc_py.py to get Location
 - Run date_py.py to get advertisement date
+- Run paint_py.py to get interior 
