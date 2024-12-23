@@ -9,3 +9,4 @@ DataScience Test Project
 ### Got Results:
 
 - From `Body`: Model + Manufacture + Year of MFT | Registration Number | TTAF | Price | Engine Hours 
+- From `Model`: Manufacture | Model | 
