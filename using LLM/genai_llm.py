@@ -1,7 +1,6 @@
-import re
+from langchain_google_genai import ChatGoogleGenerativeAI
 
-# Sample text
-text = """
+selected_column = """
 1996 Gulfstream G-IVSP 1289 N920KM for Sale: Specs, Price | ASO.com
 Login
 September 30, 02:56 AM US EDT
@@ -634,39 +633,18 @@ Online, ASO, The ASO Logo, and The Aircraft Market in Real Time are registered U
 States Trademarks
 """
 
-# Function to extract information
-def extract_aircraft_info(text):
-    # Define regex patterns for each piece of information
-    patterns = {
-        'Date of Advertisement': r'date of advertisement\s*([\d/]+)',  # Extracts date in dd/mm/yyyy format
-        'Manufacturer': r'mfr\s*([A-Za-z]+)',  # Extracts manufacturer (letters only)
-        'Model': r'model\s*([A-Za-z0-9]+)',  # Extracts model (alphanumeric)
-        'Registration Number': r'registration number\s*([A-Za-z0-9]+)',  # Extracts registration number (alphanumeric)
-        'Year of Manufacture': r'year of manufacture\s*([\d.]+)',  # Extracts year (number with decimal)
-        'Price': r'price\s*(\d+)',  # Extracts price (digits only)
-        'Total Time Airframe (TTAF)': r'ttaf \(Total Time Airframe\)\s*(\d+)',  # Extracts TTAF (digits only)
-        'Year Last Painted': r'Year Last Painted:\s*(\d{4})',  # Extracts year (4-digit year)
-        'Year Last Interior Refurb': r'Year Last Interior Refurb:\s*(\d{4})',  # Extracts year (4-digit year)
-    }
+google_api_key = 'AIzaSyDZKWSpGbv5anBo7F_QN8ugMyBc9wq7aUQ'
 
-    # Dictionary to store the extracted information
-    extracted_data = {}
+GenAI = ChatGoogleGenerativeAI(
+        model='gemini-1.5-flash',
+        google_api_key=google_api_key
+)
 
-    # Loop through patterns and extract information
-    for key, pattern in patterns.items():
-        match = re.search(pattern, text)
-        if match:
-            extracted_data[key] = match.group(1)
-        else:
-            extracted_data[key] = "Not Found"
+text = f"""
+    Read the data from the {selected_column} and extract some important informations like 
+    Date of Advertisement, Manufacturer, Model, Registration Number, Year of Manufacture,
+    Price, Total Time Airframe (TTAF), Year Last Painted and Year Last Interior Refurb etc.
+"""
 
-    return extracted_data
-
-# Call the function to extract information
-aircraft_info = extract_aircraft_info(text)
-
-# Print the extracted data in a user-friendly format
-print("Extracted Aircraft Information:")
-print("-" * 30)
-for key, value in aircraft_info.items():
-    print(f"{key}: {value}")
+response = GenAI.invoke(text)
+print(response)
